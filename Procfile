@@ -1,1 +1,1 @@
-worker: python basketbot.py
+worker: python footbot.py
